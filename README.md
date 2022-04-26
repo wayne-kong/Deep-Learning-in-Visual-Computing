@@ -7,7 +7,7 @@ The second 3 assignments included implementing different variations of CNN, GAN,
 
 ### Paper: [Domain-Adversarial Training of Neural Networks](https://arxiv.org/pdf/1505.07818.pdf)
 
-<img src="/assets/DANN.JPG" width="600" height="300" />
+<img src="/DANN.JPG" width="600" height="300" />
 
 
 ## **Prerequisite**
@@ -25,7 +25,7 @@ The second 3 assignments included implementing different variations of CNN, GAN,
 
 - Download from torchvision
 
-<p><img src="/assets/svhn.jpg" width="300" height="300" /><img src="/assets/mnist.jpg" width="300" height="300" /></p>
+<p><img src="/svhn.jpg" width="300" height="300" /><img src="/mnist.jpg" width="300" height="300" /></p>
 
 
 ## **Description**
