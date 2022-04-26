@@ -7,7 +7,7 @@ The second 3 assignments included implementing different variations of CNN, GAN,
 
 ### Paper: [Domain-Adversarial Training of Neural Networks](https://arxiv.org/pdf/1505.07818.pdf)
 
-<img src="/DANN.JPG" width="600" height="300" />
+<img src="/DANN.jpg" width="600" height="300" />
 
 
 ## **Prerequisite**
@@ -48,6 +48,3 @@ The second 3 assignments included implementing different variations of CNN, GAN,
 >>- **DANN: 80.81 %**
 >>- Baseline model (Source only model): 56.47 %
 
-
-
-<img src="/assets/acc.jpg" width="400" height="300" />
